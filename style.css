@@ -26,17 +26,10 @@ header {
 
 /* ---------- Título principal ----------
    Parte 5: os dois alunos alteram esta regra ao mesmo tempo */
-<<<<<<< HEAD
-   h1 {
-    color: #2ecc71;
-    font-size: 3rem;
-    text-align: left;
-=======
 h1 {
     color: #e74c3c;
     font-size: 2.5rem;
     text-align: center;
->>>>>>> 4953ea5679b9e8705e014451ae2feda9bdf6c5c7
 }
 
 
